@@ -1,1 +1,1 @@
-include ':app', ':library', ':wx', ':ali', ':share', ':web'
+include ':app', ':basiclib', ':wx', ':ali', ':share', ':web', ':route', ':basicui', ':basicui'

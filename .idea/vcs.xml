@@ -4,7 +4,8 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ali" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/app" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/library" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/basicui" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/route" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/share" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/web" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/wx" vcs="svn" />
