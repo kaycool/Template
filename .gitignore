@@ -6,16 +6,3 @@
 /build
 /captures
 .externalNativeBuild
-ali/libs/
-ali/src/main/java/
-ali/src/main/res/drawable/
-app/libs/
-library/libs/
-library/src/main/java/
-library/src/main/res/drawable/
-share/libs/
-share/src/main/java/
-share/src/main/res/drawable/
-wx/libs/
-wx/src/main/java/
-wx/src/main/res/drawable/
