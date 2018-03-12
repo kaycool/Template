@@ -4,5 +4,10 @@
 /.idea
 .DS_Store
 /build
+/app/build
+/library/build
+/share/build
+/wx/build
+/ali/build
 /captures
 .externalNativeBuild
